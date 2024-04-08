@@ -1,0 +1,35 @@
+$primary-color: #007bff;
+$text-color: white;
+$form-padding: 50px;
+$group-margin-bottom: 15px;
+$input-padding: 8px;
+$button-padding: 10px;
+
+.login-container {
+  width: 300px;
+  margin: auto;
+  padding-top: $form-padding;
+
+  .form-group {
+    margin-bottom: $group-margin-bottom;
+
+    label {
+      display: block;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      width: 100%;
+      padding: $input-padding;
+    }
+  }
+
+  button {
+    width: 100%;
+    padding: $button-padding;
+    background-color: $primary-color;
+    color: $text-color;
+    border: none;
+    cursor: pointer;
+  }
+}
