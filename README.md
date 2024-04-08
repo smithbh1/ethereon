@@ -23,8 +23,8 @@ Step 4:
 Step 5:
 Once you are done making changes to the file(s)-
  1. Check to make sure there aren't any changes that haven't been saved to your local version
-    $ git checkout main
-    $ git pull https://github.com/smithbh1/ethereon.git main
+    - $ git checkout main
+    - $ git pull https://github.com/smithbh1/ethereon.git main
  2. Manage merge conflicts and commit them
  3. push changes
     - git add .
