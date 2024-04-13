@@ -1,0 +1,10 @@
+:root{
+    --clr-primary: blue;
+}
+
+
+
+.container{
+    width: min(90%, 100% - 4rem);
+    background-color: red;
+}
