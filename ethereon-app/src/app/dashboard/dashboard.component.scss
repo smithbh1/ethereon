@@ -2,7 +2,9 @@
     --clr-primary: blue;
 }
 
-
+h2{
+    color: var(--clr-primary)
+}
 
 .container{
     width: min(90%, 100% - 4rem);
