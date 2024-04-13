@@ -9,7 +9,7 @@ OR
 
 Step 2:
 - Change your working directory to the name of the repository (etherion in this case)
-- $cd etherion
+- $cd etherion-app
 
 Step 3:
 - Create and check out branch to make changes on
